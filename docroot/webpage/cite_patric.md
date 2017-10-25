@@ -1,4 +1,4 @@
-## Citing PATRIC 
+# Citing PATRIC
 
 If you use PATRIC web resources to assist in research publications or proposals please cite as:
 
