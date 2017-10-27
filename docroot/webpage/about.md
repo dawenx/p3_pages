@@ -1,15 +1,16 @@
 # What is PATRIC?
 
 ## What is PATRIC?
-<p>PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information system
-    designed to support the biomedical research community’s work on bacterial infectious diseases via
-    integration of vital pathogen information with rich data and analysis tools. PATRIC sharpens and hones
-    the scope of available bacterial phylogenomic data from numerous sources specifically for the bacterial
-    research community, in order to save biologists time and effort when conducting comparative analyses.
-    The freely available PATRIC platform provides an interface for biologists to discover data and
-    information and conduct comprehensive comparative genomics and other analyses in a one-stop shop. PATRIC
-    is a NIH/NIAID-funded project of The University of Chicago with subcontract to the Biocomplexity
-    Institute of Virginia Tech.</p>
+
+PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information system
+designed to support the biomedical research community’s work on bacterial infectious diseases via
+integration of vital pathogen information with rich data and analysis tools. PATRIC sharpens and hones
+the scope of available bacterial phylogenomic data from numerous sources specifically for the bacterial
+research community, in order to save biologists time and effort when conducting comparative analyses.
+The freely available PATRIC platform provides an interface for biologists to discover data and
+information and conduct comprehensive comparative genomics and other analyses in a one-stop shop. PATRIC
+is a NIH/NIAID-funded project of The University of Chicago with subcontract to the Biocomplexity
+Institute of Virginia Tech.
 
 ## What PATRIC Offers
 
@@ -22,9 +23,9 @@
 * **A Personal Workspace** to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using a suite of tools to perform comparative genomic or transcriptomic analysis. Customize PATRIC preferences to streamline searches and data browsing.
 
 ## PATRIC Tools and Comparative Analyses
-[![Comparative Analyses](./images/Comarative-Analyses-970x1024.png)](./images/Comarative-Analyses.png)
+![Comparative Analyses](../_static/Comarative-Analyses-970x1024.png)
 
-[Download this information in a PATRIC brochure](./images/PATRIC_Final_Pamphlet.pdf)
+[Download this information in a PATRIC brochure](../_static/PATRIC_Final_Pamphlet.pdf)
 
 [PATRIC Data Release Policy](http://enews.patricbrc.org/data-release-policy/)
 
@@ -34,7 +35,7 @@ The PATRIC team is committed to supporting and growing the bacterial research co
     participation is greatly appreciated.
 
 ## About the Computation Institute
-<p>The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between The University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches.
+The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between The University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches.
 The CI is both an intellectual nexus and resource center for those building and applying computational
 platforms for science. As an intellectual nexus, it brings together researchers from different
 disciplines with common interests in advancing the state-of-the-art in computing and its applications.
@@ -45,11 +46,10 @@ discipline. The CI is home to over 100 researchers and staff, including more tha
 University of Chicago faculty and Argonne scientists that have active collaborations with over 50
 prestigious academic and research institutions across the globe. Current research is targeted at solving
 complex system-level problems in bioinformatics, biomedicine, neuroscience, genomics, metagenomics,
-energy and climate, astronomy and astrophysics, computational economics, and molecular engineering.</p>
+energy and climate, astronomy and astrophysics, computational economics, and molecular engineering.
 
 ## About the Biocomplexity Institute of Virginia Tech
-<p>The <a href="http://bi.vt.edu/" target="_blank">Biocomplexity
-Institute of Virginia Tech</a> (BIVT) is a world-class research institute dedicated to the study of
+The <a href="http://bi.vt.edu/" target="_blank">Biocomplexity Institute of Virginia Tech</a> (BIVT) is a world-class research institute dedicated to the study of
 information biology. Housed in state-of-the-art facilities on Virginia Tech’s Blacksburg campus and
 National Capital Region Research Center, the institute broadly integrates disciplines – from molecular
 science to policy analysis – to address pressing challenges to human health, habitat, and well-being.
@@ -62,4 +62,4 @@ habitat, and well-being. Our <a href="http://bi.vt.edu/research" target="_blank"
 is interdisciplinary to its core, integrating methods from the life, cognitive, and social sciences, as
 well environmental studies and infrastructural development. The institute guides emergency response to
 epidemics, makes urban infrastructure more sustainable, and accelerates the discovery of treatments for
-chronic diseases.</p>
+chronic diseases.

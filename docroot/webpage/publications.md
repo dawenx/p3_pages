@@ -100,12 +100,9 @@
             href="http://www.ncbi.nlm.nih.gov/pubmed/25362062" target="_blank">25362062</a>. PMCID:
     PMC4277580 [Available on 2015/7/1].</p>
 <p>Warren, A. S., C. Aurrecoechea, B. Brunk, P. Desai, S. Emrich, G. I. Giraldo-Calderon, O. Harb, D. Hix,
-    D.
-    Lawson, D. Machi, C. Mao, M. McClelland, E. Nordberg, M. Shukla, L. B. Vosshall, A. R. Wattam, R. Will,
-    H.
-    S. Yoo and B. Sobral (2015). &#8220;<strong>RNA-Rocket: An RNA-Seq Analysis Resource for Infectious
-        Disease
-        Research.</strong>&#8221; <span style="text-decoration: underline;">Bioinformatics</span>
+    D. Lawson, D. Machi, C. Mao, M. McClelland, E. Nordberg, M. Shukla, L. B. Vosshall, A. R. Wattam, R. Will,
+    H. S. Yoo and B. Sobral (2015). &#8220;<strong>RNA-Rocket: An RNA-Seq Analysis Resource for Infectious
+    Disease Research.</strong>&#8221; <span style="text-decoration: underline;">Bioinformatics</span>
     <strong>31</strong>:1496-8 PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25573919" target="_blank">25573919</a>.
 </p>
 
@@ -130,33 +127,27 @@
 </p>
 <p>Dugan V.G., S.J. Emrich, G.I. Giraldo-Calderón, O.S. Harb, R.M. Newman, B.E. Pickett, L.M. Schriml, T.B.
     Stockwell, C. J. Stoeckert Jr, D. E. Sullivan, I. Singh, D.V. Ward, A. Yao, J. Zheng, T. Barrett, B.
-    Birren,
-    L. Brinkac,V.M. Bruno, E. Caler, S. Chapman, F.H. Collins, C.A. Cuomo, V. Di Francesco, S. Durkin, M.
-    Eppinger, M. Feldgarden, C. Fraser, W.F. Fricke, M. Giovanni, M.R. Henn, E. Hine, J.D. Hotopp, I.
+    Birren, L. Brinkac,V.M. Bruno, E. Caler, S. Chapman, F.H. Collins, C.A. Cuomo, V. Di Francesco, S. Durkin, M. Eppinger, M. Feldgarden, C. Fraser, W.F. Fricke, M. Giovanni, M.R. Henn, E. Hine, J.D. Hotopp, I.
     Karsch-Mizrachi, J.C. Kissinger, E.M. Lee, P. Mathur, E.F. Mongodin, C.I. Murphy, G. Myers, D.E.
-    Neafsey,
-    K.E. Nelson, W.C. Nierman, J. Puzak, D. Rasko, D.S. Roos, L. Sadzewicz, J.C. Silva, B. Sobral, R.B.
-    Squires,
-    R.L. Stevens, L. Tallon, H. Tettelin, D. Wentworth, O. White, R. Will, J. Wortman, Y. Zhang, R.H.
+    Neafsey, K.E. Nelson, W.C. Nierman, J. Puzak, D. Rasko, D.S. Roos, L. Sadzewicz, J.C. Silva, B. Sobral, R.B.
+    Squires, R.L. Stevens, L. Tallon, H. Tettelin, D. Wentworth, O. White, R. Will, J. Wortman, Y. Zhang, R.H.
     Scheuermann. (2014). “<b>Standardized metadata for human pathogen/vector genomic sequences</b>.” <span
-            style="text-decoration: underline;">PLoS ONE</span> 9(6): e99979. doi: <a
-            href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0099979" target="_blank">10.1371/journal.pone.0099979</a>. PMID: <a
-            href="http://www.ncbi.nlm.nih.gov/pubmed/24936976" target="_blank">24936976</a>.</p>
+    style="text-decoration: underline;">PLoS ONE</span> 9(6): e99979. doi: <a
+    href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0099979" target="_blank">10.1371/journal.pone.0099979</a>. PMID: <a
+    href="http://www.ncbi.nlm.nih.gov/pubmed/24936976" target="_blank">24936976</a>.</p>
 <p>Elhadad, D., M. McClelland, G. Rahav and O. Gal-Mor (2014). &#8220;<strong>Feverlike Temperature is a
     Virulence Regulatory Cue Controlling the Motility and Host Cell Entry of Typhoidal Salmonella.</strong>&#8221;
     <span style="text-decoration: underline;">Journal of Infectious Diseases</span>. PMID: <a
             href="http://www.ncbi.nlm.nih.gov/pubmed/25492917" target="_blank">25492917</a>. doi: <a
             href="http://jid.oxfordjournals.org/content/early/2015/01/08/infdis.jiu663" target="_blank">10.1093/infdis/jiu663</a></p>
 <p>Faria, J.P., Edirisinghe J.N., J.J. Davis, T. Disz, A. Hausmann, C.S. Henry, R. Olson, R.A. Overbeek,
-    G.D.
-    Pusch, M. Shukla, V. Vonstein, A.R. Wattam (2014). “<b>Enabling comparative modeling of closely related
+    G.D. Pusch, M. Shukla, V. Vonstein, A.R. Wattam (2014). “<b>Enabling comparative modeling of closely related
         genomes: example genus <i>Brucella</i>.”</b> <span
             style="text-decoration: underline;">3 Biotech</span>
     2190-572X: 1-5. doi: <span style="text-decoration: underline;"><a
             href="http://dx.doi.org/10.1007/s13205-014-0202-4" target="_blank">10.​1007/​s13205-014-0202-4</a></span>.</p>
 <p>Flynn, T. M., E. J. O&#8217;Loughlin, B. Mishra, T. J. DiChristina and K. M. Kemner (2014).
-    &#8220;<strong>Sulfur-mediated
-        electron shuttling during bacterial iron reduction.</strong>&#8221; <span
+    &#8220;<strong>Sulfur-mediated electron shuttling during bacterial iron reduction.</strong>&#8221; <span
             style="text-decoration: underline;">Science</span> <b>344</b>(6187): 1039-1042. PMID: <a
             href="http://www.ncbi.nlm.nih.gov/pubmed/24789972" target="_blank">24789972</a>.</p>
 <p>Gillespie, J. J., T. P. Driscoll, V. I. Verhoeve, T. Utsuki, C. Husseneder, V. N. Chouljenko, A. F. Azad
@@ -187,22 +178,18 @@
     111(37): 13264-13271. PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25197070" title="25197070" target="_blank">25197070</a>. PMCID: <a
             href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4169951" title="PMC416995" target="_blank">PMC4169951</a>.</p>
 <p>Park, J., Gabbard, J.L. (2014). &#8220;<strong>User Experiences with Open Access Knowledge Sharing
-    Platforms:
-    Preliminary User-Centered Design Implications for Complex Data-intensive Domains.</strong>&#8221; <span
+    Platforms: Preliminary User-Centered Design Implications for Complex Data-intensive Domains.</strong>&#8221; <span
         style="text-decoration: underline;">Proceedings of the Human Factors and Ergonomics Society Annual Meeting</span>
     58(1): 1496-1500.</p>
 <p>Pontel, L. B., N. L. Scampoli, S. Porwollik, S. K. Checa, M. McClelland and F. C. Soncini (2014).
     &#8220;<strong>Identification of a Salmonella ancillary copper detoxification mechanism by a comparative
         analysis of the genome-wide transcriptional response to copper and zinc excess.</strong>&#8221;
-    <span
-            style="text-decoration: underline;">Microbiology</span> <b>160</b>(Pt 8): 1659-1669. PMID: <a
-            href="http://www.ncbi.nlm.nih.gov/pubmed/24858080" target="_blank">24858080</a>. PMCID: PMC4117220 [Available on 2015/8/1].</p>
+    <span style="text-decoration: underline;">Microbiology</span> <b>160</b>(Pt 8): 1659-1669. PMID: <a
+    href="http://www.ncbi.nlm.nih.gov/pubmed/24858080" target="_blank">24858080</a>. PMCID: PMC4117220 [Available on 2015/8/1].</p>
 <p>Porwollik, S., C. A. Santiviago, P. Cheng, F. Long, P. Desai, J. Fredlund, S. Srikumar, C. A. Silva, W.
-    Chu,
-    X. Chen, R. Canals, M. M. Reynolds, L. Bogomolnaya, C. Shields, P. Cui, J. Guo, Y. Zheng, T.
+    Chu, X. Chen, R. Canals, M. M. Reynolds, L. Bogomolnaya, C. Shields, P. Cui, J. Guo, Y. Zheng, T.
     Endicott-Yazdani, H. J. Yang, A. Maple, Y. Ragoza, C. J. Blondel, C. Valenzuela, H. Andrews-Polymenis
-    and M.
-    McClelland (2014). &#8220;<strong>Defined single-gene and multi-gene deletion mutant collections in
+    and M. McClelland (2014). &#8220;<strong>Defined single-gene and multi-gene deletion mutant collections in
         Salmonella enterica sv Typhimurium.</strong>&#8221; <span
             style="text-decoration: underline;">PLoS One</span> <b>9</b>(7): e99820. PMID: <a
             href="http://www.ncbi.nlm.nih.gov/pubmed/25007190" target="_blank">25007190</a>. PMCID: <a
