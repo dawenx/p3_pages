@@ -3,23 +3,19 @@
 ## 2017
 <p>Al Dahouk S, Köhler S, Occhialini A, Jiménez de Bagüés MP, Hammerl JA, Eisenberg T, Vergnaud G, Cloeckaert A,
 	Zygmunt MS, Whatmore AM, Melzer F, Drees KP, Foster JT, Wattam AR, Scholz HC.
-	&#8220;<strong><em>Brucella</em> spp. of amphibians comprise genomically diverse motile strains competent for replication
-	in macrophages and survival in mammalian hosts.</strong>&#8221; Sci Rep. 2017 Mar 16;7:44420.
+	&#8220;<strong><em>Brucella</em> spp. of amphibians comprise genomically diverse motile strains competent for replication in macrophages and survival in mammalian hosts.</strong>&#8221; Sci Rep. 2017 Mar 16;7:44420.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28300153">28300153</a>.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5353553/">PMC5353553</a>.
 </p>
 
 <p>Kumar P, Kaushik A, Bell DT, Chauhan V, Xia F, Stevens RL, Lamichhane G.
-	&#8220;<strong>Mutation in an Unannotated Protein Confers Carbapenem Resistance in <em>Mycobacterium tuberculosis.</em></strong>&#8221;
-	Antimicrob Agents Chemother. 2017 Feb 23;61(3). pii: e02234-16. Print 2017 Mar.
+	&#8220;<strong>Mutation in an Unannotated Protein Confers Carbapenem Resistance in <em>Mycobacterium tuberculosis.</em></strong>&#8221; Antimicrob Agents Chemother. 2017 Feb 23;61(3). pii: e02234-16. Print 2017 Mar.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28069655">28069655</a>.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5328524/">PMC5328524 [Available on 2017-08-23]</a>.
 </p>
 
 <p>Long, S. W., S. E. Linson, M. Ojeda Saavedra, C. Cantu, J. J. Davis, T. Brettin and R. J. Olsen (2017).
-    &#8220;<strong>Whole-Genome Sequencing of Human Clinical Klebsiella pneumoniae Isolates Reveals Misidentification and
-    Misunderstandings of <em>Klebsiella pneumoniae</em>, <em>Klebsiella variicola</em>, and
-    <em>Klebsiella quasipneumoniae</em>.</strong>&#8221; mSphere 2(4).
+    &#8220;<strong>Whole-Genome Sequencing of Human Clinical Klebsiella pneumoniae Isolates Reveals Misidentification and Misunderstandings of <em>Klebsiella pneumoniae</em>, <em>Klebsiella variicola</em>, and <em>Klebsiella quasipneumoniae</em>.</strong>&#8221; mSphere 2(4).
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28776045">28776045</a>.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541162/">PMC5541162</a>.
 </p>
@@ -47,8 +43,7 @@
 </p>
 
 <p>Viana MV, Wattam AR, Govil Batra D, Boisvert S, Brettin TS, Frace M, Xia F, Azevedo V, Tiller R, Hoffmaster AR.
-	&#8220;<strong>Genome Sequences of Two <em>Brucella suis</em> Strains Isolated from the Same Patient, 8 Years Apart.</strong>&#8221;
-	Genome Announc. 2017 Mar 2;5(9). pii: e01687-16.
+	&#8220;<strong>Genome Sequences of Two <em>Brucella suis</em> Strains Isolated from the Same Patient, 8 Years Apart.</strong>&#8221; Genome Announc. 2017 Mar 2;5(9). pii: e01687-16.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28254974">28254974</a>.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5334581/">PMC5334581</a>.
 </p>
@@ -60,8 +55,7 @@
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5323635/">PMC5323635</a>.
 </p>
 
-<p>Wattam AR, Davis JJ, Assaf R, Boisvert S, Brettin T, Bun C, Conrad N, Dietrich EM, Disz T, Gabbard JL, Gerdes S, Henry CS, Kenyon RW, Machi D, Mao C,
-	Nordberg EK, Olsen GJ, Murphy-Olson DE, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Vonstein V, Warren A, Xia F, Yoo H, Stevens RL.
+<p>Wattam AR, Davis JJ, Assaf R, Boisvert S, Brettin T, Bun C, Conrad N, Dietrich EM, Disz T, Gabbard JL, Gerdes S, Henry CS, Kenyon RW, Machi D, Mao C, Nordberg EK, Olsen GJ, Murphy-Olson DE, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Vonstein V, Warren A, Xia F, Yoo H, Stevens RL.
 	&#8220;<strong>Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center.</strong>&#8221;
 	Nucleic Acids Res. 2017 Jan 4;45(D1):D535-D542. Epub 2016 Nov 29.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=27899627">27899627</a>.
@@ -93,8 +87,7 @@
 
 ## 2015
 <p>Brettin, T., J. J. Davis, T. Disz, R. A. Edwards, S. Gerdes, G. J. Olsen, R. Olson, R. Overbeek, B.
-    Parrello,
-    G. D. Pusch, M. Shukla, J. A. Thomason, 3rd, R. Stevens, V. Vonstein, A. R. Wattam and F. Xia (2015).
+    Parrello, G. D. Pusch, M. Shukla, J. A. Thomason, 3rd, R. Stevens, V. Vonstein, A. R. Wattam and F. Xia (2015).
     &#8220;<strong>RASTtk: a modular and extensible implementation of the RAST algorithm for building custom
         annotation pipelines and annotating batches of genomes.</strong>&#8221; <span
             style="text-decoration: underline;">Sci Rep</span> <b>5</b>: 8365. PMID: <a

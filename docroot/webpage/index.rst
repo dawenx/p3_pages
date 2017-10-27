@@ -9,3 +9,4 @@ PATRIC web pages
    workshops.md
    presentations.md
    cite_patric.md
+   about.md
