@@ -48,7 +48,7 @@ Currently, PATRIC allows you to upload your transcriptomics datasets in
 the form of differential gene expression measured as log ratios. Data
 can be uploaded in multiple file formats: comma separated values (.csv),
 tab delimited values (.txt), or Excel (.xls or .xlsx). Click to download
-`Sample Data template <../_static/Sample-Genes.xlsx>`__ in Gene Matrix Format.
+`Sample Data template`_ in Gene Matrix Format.
 Files should contain data in one of the following formats:
 
 1. Gene Matrix:
@@ -109,4 +109,7 @@ using the Heatmap and clustering tools. The metadata table can be
 uploaded as a tab/comma delimited or Excel file. Note: The column names
 should be the same as in the example template. Also, comparison IDs in
 the metadata file should match those in the data file. Click to download
-`Metadata Template <../_static/Sample-Metadata.xlsx>`__.
+`Metadata Template`_
+
+.. _Sample Data template: //p3.theseed.org/p3_pages/_static/Sample-Genes.xlsx
+.. _Metadata Template: //p3.theseed.org/p3_pages/_static/Sample-Metadata.xlsx
