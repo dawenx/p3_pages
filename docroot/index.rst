@@ -10,5 +10,6 @@ PATRIC Static Content
    :maxdepth: 2
 
    webpage/index
+   help/index
 
 
