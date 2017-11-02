@@ -10,7 +10,7 @@ PATRIC web pages
    presentations.md
    cite_patric.md
    about.md
-   SWG.rst
+   swg.rst
    personnel.md
    collaborators.md
    related_sites.md
