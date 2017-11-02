@@ -1,4 +1,4 @@
-differential Expression Import
+Differential Expression Import
 ==============================
 
 Experiment Information

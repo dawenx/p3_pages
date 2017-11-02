@@ -1,4 +1,4 @@
-# Genome annotation
+# Genome Annotation
 
 ## Taxon information
 Taxon must be specified at the genus level or below to get the latest

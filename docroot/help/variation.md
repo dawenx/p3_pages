@@ -1,4 +1,4 @@
-# Variation analysis
+# Variation Analysis
 
 ## Paired read library
 
