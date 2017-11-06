@@ -1,5 +1,10 @@
 # Genome Assembly
 
+## Overview
+The Genome Assembly Service allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or “recipes” are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a “job” for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired. A tutorial for using the Assembly Service is available here.
+
+The Genome Annotation Service can be accessed from the Services Menu at the top of the PATRIC website page. RASTtk also accommodates the batch submission of genomes and the ability to customize annotation protocols for batch submissions, available via the PATRIC Command Line Interface (CLI).
+
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
 
@@ -83,3 +88,41 @@ Name used to uniquely identify results.
 
 - For long reads (PacBio or Nanopore):
   1. Assembles with MiniASM
+
+## Advanced
+
+### Minimal output contig length
+Filter out short contigs in final assembly
+
+### Minimal output contig coverage
+Filter out contigs with low read depth in final assembly
+
+### Assembly Pipeline
+The pipeline parameter is an advanced way to customize the assembly
+workflow by mixing and matching a variety of modules. Each modules works
+at one of the three stages of the pipeline: preprocessing, assembly, and
+post-processing. In general, you can compose a pipeline by concating one
+or more preprocessing modules, one assembler, and optionally one
+postprocessor.
+
+#### Example 1: tagdust velvet
+This pipeline will simply run tagdust to remove adapter sequences in the
+reads and then assemble them with velvet. Note: quotes should not be
+used around the two modules as they have special meaning in pipeline
+syntax.
+
+#### Example 2: a6
+You can also invoke an assembler that we have not included in our
+curated strategies. In this case, A6 is an assembler with its built-in
+preprocessing and postprocessing steps.
+
+#### Example 3: "tagdust none" "megahit velvet" sspace
+You can use quotes to specify alternative modules you would like to try
+at each step. This example will launch a cartesian combination of four
+parallel pipelines: tagdust+megahit+sspace, tagdust+velvet+sspace,
+megahit+sspace, velvet+sspace.
+
+#### Note:
+The pipeline parameter overrides the assembly strategy parameter. Not
+all modules combine well.
+[List of modules supported](ftp://ftp.patricbrc.org/workshop/arast/arast_modules.txt)

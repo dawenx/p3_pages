@@ -1,5 +1,9 @@
 # Protein Family Sorter
 
+## Overview
+The Protein Family Sorter tool enables researchers to examine the distribution
+of specific protein families, known as FIGfams, across different genomes.
+
 ## Select Family Type
 
 ### FAMILY TYPE
