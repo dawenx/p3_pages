@@ -1,5 +1,10 @@
 # Proteome Comparison
 
+## Overview
+The Proteome Comparison Service performs protein sequence-based genome comparison using bidirectional BLASTP. This service allows users to select up to eight genomes, either public or private, and compare them to a user-selected or supplied reference genome. The genome comparison result is displayed as an interactive circular genome view and are downloadable as a print-quality image or tabular comparison results.
+
+The Proteome Comparison Service can be accessed from the Services Menu at the top of the PATRIC website page.
+
 ## Parameters
 
 ### Advanced parameters:
