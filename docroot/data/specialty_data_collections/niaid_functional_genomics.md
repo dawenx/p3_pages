@@ -1,4 +1,4 @@
-# NIAID Functional
+# NIAID Functional Genomics
 
 The Functional Genomics Program for understanding the functions of uncharacterized genes in infectious disease pathogens will generate experimental data to determine the biochemical function(s) of hypothetical genes, unknown open reading frames, and non-coding RNAs. The program will apply state-of-the-art technologies to determine the biochemical and physiological roles of these gene components. Obtaining a more comprehensive understanding of uncharacterized genes in infectious disease pathogens will lead to improved genomic annotation and allow for the development of potential new targets for medical diagnostics, therapeutics and vaccines. The program will distribute data, software, and reagents generated from the research projects to the broader scientific community.
 
