@@ -16,5 +16,5 @@ PATRIC Content Pages
    systems_biology_of_clostridium_difficile_infection.md
    predicting_the_emergence_antibiotic_resistance.md
    systems_biology_approach.md
-   systems_immunobiology.md
+   systems_immunolobiology.md
    systems_biology_of_microbiome_mediated_resilence.md
