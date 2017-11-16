@@ -11,4 +11,5 @@ PATRIC Content Pages
    tb_arc_antibiotic_resistance_catalog.md
    niaid_antimicrobial_resistance_sequencing_projects.rst
    omics_4tb.md
-   tb_systems_biology.md
+   tb_systems_biology.rst
+   center_for_systems_biology_enteropathogens_sysbep.md
