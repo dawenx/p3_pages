@@ -9,3 +9,4 @@ PATRIC Content Pages
    scientific_working_group.rst
    patric_dbp_mccclelland.md
    tb_arc_antibiotic_resistance_catalog.md
+   niaid_antimicrobial_resistance_sequencing_projects.rst
