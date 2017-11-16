@@ -1,5 +1,5 @@
 
-# Functionalizing Lists of Unknown TB Entitites - FLUTE
+# Functionalizing Lists of Unknown TB Entitites (FLUTE)
 
 ![Flute Logo](https://www.patricbrc.org/public/patric/images/FLUTE_logo_blue.png)
 
