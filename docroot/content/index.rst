@@ -6,3 +6,4 @@ PATRIC Content Pages
    :caption: Contents:
 
    burkholderia_pseudomallei_transcriptome_compendium.md
+   scientific_working_group.rst
