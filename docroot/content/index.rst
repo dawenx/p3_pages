@@ -23,3 +23,5 @@ PATRIC Content Pages
    flute.md
    ccfa.md
    gunk.md
+   gunk-experiment-1.md
+   gunk-experiment-2.md
