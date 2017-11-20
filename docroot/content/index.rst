@@ -28,3 +28,4 @@ PATRIC Content Pages
    flute-experiment-1.rst
    flute-experiment-2.rst
    flute-experiment-3.rst
+   flute-experiment-4.rst
