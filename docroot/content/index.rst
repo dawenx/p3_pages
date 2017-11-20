@@ -10,8 +10,8 @@ PATRIC Content Pages
    patric_dbp_mccclelland.md
    tb_arc_antibiotic_resistance_catalog.md
    niaid_antimicrobial_resistance_sequencing_projects.rst
-
    omics_4tb.md
+   omics4tb_chip_seq_experiments.rst
    tb_systems_biology.rst
    center_for_systems_biology_enteropathogens_sysbep.md
    systems_biology_of_clostridium_difficile_infection.md
@@ -19,7 +19,6 @@ PATRIC Content Pages
    systems_biology_approach.md
    systems_immunolobiology.md
    systems_biology_of_microbiome_mediated_resilence.md
-
    flute.md
    flute-experiment-1.rst
    flute-experiment-2.rst
