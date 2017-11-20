@@ -1,148 +1,44 @@
 Salmonella enterica Known SPI-2 effectors identified
 ====================================================
 
-
-+-----------------+-----------------+-----------------+-----------------+
-| Genome          | Locus Tag       | RefSeq Locus    | Product         |
-|                 |                 | Tag             | Description     |
-+=================+=================+=================+=================+
-| Salmonella      | VBISalEnt20916_ | PSLT038         | 27.5 kDa        |
-| enterica subsp. | 4889            |                 | virulence       |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM0800         | invasion        |
-| enterica subsp. | 0834            |                 | plasmid antigen |
-| enterica        |                 |                 | / internalin,   |
-| serovar         |                 |                 | putative        |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM0972         | FIG01045244:    |
-| enterica subsp. | 1025            |                 | hypothetical    |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1051         | Secreted        |
-| enterica subsp. | 1115            |                 | effector        |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1088         | FIG01046201:    |
-| enterica subsp. | 1152            |                 | hypothetical    |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1224         | SifA protein    |
-| enterica subsp. | 1294            |                 |                 |
-| enterica        |                 |                 |                 |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1398         | Secretion       |
-| enterica subsp. | 1482            |                 | system effector |
-| enterica        |                 |                 | SseB            |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1400         | Secretion       |
-| enterica subsp. | 1484            |                 | system effector |
-| enterica        |                 |                 | SseC            |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1401         | Secretion       |
-| enterica subsp. | 1485            |                 | system effector |
-| enterica        |                 |                 | SseD            |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1405         | Secretion       |
-| enterica subsp. | 1489            |                 | system effector |
-| enterica        |                 |                 | SseG            |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1583         | Putative        |
-| enterica subsp. | 1674            |                 | cytoplasmic     |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1602         | secreted        |
-| enterica subsp. | 1693            |                 | effector        |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1631         | Secreted        |
-| enterica subsp. | 1723            |                 | effector J SseJ |
-| enterica        |                 |                 |                 |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM1698         | Putative inner  |
-| enterica subsp. | 1793            |                 | membrane        |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM2137         | putative        |
-| enterica subsp. | 2261            |                 | cytoplasmic     |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM2241         | Secreted        |
-| enterica subsp. | 2374            |                 | effector        |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM2287         | Putative        |
-| enterica subsp. | 2421            |                 | cytoplasmic     |
-| enterica        |                 |                 | protein         |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM2780         | Similar to pipB |
-| enterica subsp. | 2931            |                 |                 |
-| enterica        |                 |                 |                 |
-| serovar         |                 |                 |                 |
-| Typhimurium     |                 |                 |                 |
-| str. LT2        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Salmonella      | VBISalEnt20916_ | STM2865         | Type III        |
-| enterica subsp. | 3021            |                 | secretion       |
-| enterica        |                 |                 | injected        |
-| serovar         |                 |                 | virulence       |
-| Typhimurium     |                 |                 | protein         |
-| str. LT2        |                 |                 | (YopP,YopJ,     |
-|                 |                 |                 | induces         |
-|                 |                 |                 | apoptosis,      |
-|                 |                 |                 | prevents        |
-|                 |                 |                 | cytokine        |
-|                 |                 |                 | induction,      |
-|                 |                 |                 | inhibits NFkb   |
-|                 |                 |                 | activation)     |
-+-----------------+-----------------+-----------------+-----------------+
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Genome                                                             | Locus Tag              | RefSeq Locus Tag   | Product Description                                                                                                                   |
++====================================================================+========================+====================+=======================================================================================================================================+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_4889   | PSLT038            | 27.5 kDa virulence protein                                                                                                            |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_0834   | STM0800            | invasion plasmid antigen / internalin, putative                                                                                       |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1025   | STM0972            | FIG01045244: hypothetical protein                                                                                                     |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1115   | STM1051            | Secreted effector protein                                                                                                             |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1152   | STM1088            | FIG01046201: hypothetical protein                                                                                                     |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1294   | STM1224            | SifA protein                                                                                                                          |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1482   | STM1398            | Secretion system effector SseB                                                                                                        |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1484   | STM1400            | Secretion system effector SseC                                                                                                        |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1485   | STM1401            | Secretion system effector SseD                                                                                                        |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1489   | STM1405            | Secretion system effector SseG                                                                                                        |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1674   | STM1583            | Putative cytoplasmic protein                                                                                                          |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1693   | STM1602            | secreted effector protein                                                                                                             |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1723   | STM1631            | Secreted effector J SseJ                                                                                                              |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_1793   | STM1698            | Putative inner membrane protein                                                                                                       |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_2261   | STM2137            | putative cytoplasmic protein                                                                                                          |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_2374   | STM2241            | Secreted effector protein                                                                                                             |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_2421   | STM2287            | Putative cytoplasmic protein                                                                                                          |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_2931   | STM2780            | Similar to pipB                                                                                                                       |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Salmonella enterica subsp. enterica serovar Typhimurium str. LT2   | VBISalEnt20916\_3021   | STM2865            | Type III secretion injected virulence protein (YopP,YopJ, induces apoptosis, prevents cytokine induction, inhibits NFkb activation)   |
++--------------------------------------------------------------------+------------------------+--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
