@@ -17,6 +17,15 @@ PATRIC Content Pages
    omics4tb_macrophage_mtb_infection.rst
    tb_systems_biology.rst
    center_for_systems_biology_enteropathogens_sysbep.md
+   s_enterica_cyt.rst
+   s_enterica_im.rst
+   s_enterica_peri.rst
+   s_enterica_om.rst
+   s_enterica_moonlighting.rst
+   s_enterica_pathogenesis.rst
+   s_enterica_spi2_effector.rst
+   s_enterica_spi2_ttss.rst
+   s_enterica_effector.rst
    systems_biology_of_clostridium_difficile_infection.md
    predicting_the_emergence_antibiotic_resistance.md
    systems_biology_approach.md
