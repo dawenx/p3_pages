@@ -25,4 +25,5 @@ PATRIC Content Pages
    gunk.md
    gunk-experiment-1.md
    gunk-experiment-2.md
+   flute-experiment-1.rst
    flute-experiment-2.rst
