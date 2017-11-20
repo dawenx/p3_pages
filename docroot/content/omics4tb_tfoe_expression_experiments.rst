@@ -32,68 +32,39 @@ These results will stimulate additional systems-level and
 hypothesis-driven efforts to understand *M. tuberculosis* adaptations
 that promote disease.
 
-+------------------------------+----------------------------------+
-| **Design Type(s)**           | Tiling Array                     |
-+------------------------------+----------------------------------+
-| **Measurement Type(s)**      | Transcription profiling assay    |
-+------------------------------+----------------------------------+
-| **Technology Type(s)**       | Tiling microarray                |
-+------------------------------+----------------------------------+
-| **Sample Characteristic(s)** | Mycobacterium tuberculosis H37Rv |
-+------------------------------+----------------------------------+
++--------------------------------+------------------------------------+
+| **Design Type(s)**             | Tiling Array                       |
++--------------------------------+------------------------------------+
+| **Measurement Type(s)**        | Transcription profiling assay      |
++--------------------------------+------------------------------------+
+| **Technology Type(s)**         | Tiling microarray                  |
++--------------------------------+------------------------------------+
+| **Sample Characteristic(s)**   | Mycobacterium tuberculosis H37Rv   |
++--------------------------------+------------------------------------+
 
-.. rubric:: GEO Record
-   :name: geo-record
-   :class: ribbon-title
+GEO Record
+----------
 
-+-----------------------------------+-----------------------------------+
-| Status                            | Public on Jul 04, 2014            |
-+-----------------------------------+-----------------------------------+
-| Title                             | Mapping and manipulating the M.   |
-|                                   | tuberculosis transcriptome using  |
-|                                   | a transcription factor            |
-|                                   | overexpression-derived regulatory |
-|                                   | network                           |
-+-----------------------------------+-----------------------------------+
-| Organism                          | `Mycobacterium tuberculosis       |
-|                                   | H37Rv <http://www.ncbi.nlm.nih.go |
-|                                   | v/Taxonomy/Browser/wwwtax.cgi?mod |
-|                                   | e=Info&id=83332>`__               |
-+-----------------------------------+-----------------------------------+
-| Experiment type                   | Expression profiling by array     |
-+-----------------------------------+-----------------------------------+
-| Summary                           | Expression data from              |
-|                                   | transcription factor over         |
-|                                   | expression experiments            |
-|                                   | (Abstract from paper will be      |
-|                                   | appended after publication)       |
-+-----------------------------------+-----------------------------------+
-| Overall design                    | TFOE are matched to the ChIP-seq  |
-|                                   | experiment done simultaneously.   |
-+-----------------------------------+-----------------------------------+
-| Contributor(s)                    | `Rustad                           |
-|                                   | T <http://www.ncbi.nlm.nih.gov/pu |
-|                                   | bmed?term=Rustad%20T%5BAuthor%5D> |
-|                                   | `__,                              |
-|                                   | `Minch                            |
-|                                   | K <http://www.ncbi.nlm.nih.gov/pu |
-|                                   | bmed?term=Minch%20K%5BAuthor%5D>` |
-|                                   | __,                               |
-|                                   |  `Sherman                         |
-|                                   | D <http://www.ncbi.nlm.nih.gov/pu |
-|                                   | bmed?term=Sherman%20D%5BAuthor%5D |
-|                                   | >`__                              |
-+-----------------------------------+-----------------------------------+
-| Citation(s)                       | Peterson EJ, Reiss DJ, Turkarslan |
-|                                   | S, Minch KJ et al. A              |
-|                                   | high-resolution network model for |
-|                                   | global gene regulation in         |
-|                                   | Mycobacterium                     |
-|                                   | tuberculosis. \ *Nucleic Acids    |
-|                                   | Res* 2014 Oct;42(18):11291-303.   |
-|                                   | PMID: \ `25232098 <http://www.ncb |
-|                                   | i.nlm.nih.gov/pubmed/25232098>`__ |
-+-----------------------------------+-----------------------------------+
+
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Status            | Public on Jul 04, 2014                                                                                                                                                                                                                                               |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Title             | Mapping and manipulating the M. tuberculosis transcriptome using a transcription factor overexpression-derived regulatory network                                                                                                                                    |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Organism          | `Mycobacterium tuberculosis H37Rv <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=83332>`__                                                                                                                                                    |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Experiment type   | Expression profiling by array                                                                                                                                                                                                                                        |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary           | Expression data from transcription factor over expression experiments                                                                                                                                                                                                |
+|                   | (Abstract from paper will be appended after publication)                                                                                                                                                                                                             |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Overall design    | TFOE are matched to the ChIP-seq experiment done simultaneously.                                                                                                                                                                                                     |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Contributor(s)    | `Rustad T <http://www.ncbi.nlm.nih.gov/pubmed?term=Rustad%20T%5BAuthor%5D>`__,  `Minch K <http://www.ncbi.nlm.nih.gov/pubmed?term=Minch%20K%5BAuthor%5D>`__,  `Sherman D <http://www.ncbi.nlm.nih.gov/pubmed?term=Sherman%20D%5BAuthor%5D>`__                        |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Citation(s)       | Peterson EJ, Reiss DJ, Turkarslan S, Minch KJ et al. A high-resolution network model for global gene regulation in Mycobacterium tuberculosis. \ *Nucleic Acids Res* 2014 Oct;42(18):11291-303. PMID: \ `25232098 <http://www.ncbi.nlm.nih.gov/pubmed/25232098>`__   |
++-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 
 All transcription factor overexpression data from tiling microarray
 experiments are available at NCBI GEO database under the accession

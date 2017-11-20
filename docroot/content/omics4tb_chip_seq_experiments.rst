@@ -40,39 +40,34 @@ influences were compared to 12 existing regulons as a validation.
 (*Source: Turkarslan et al., Scientific Data \ **2**, Article number:
 150010 (2015)  ​doi:10.1038/sdata.2015.10*)
 
-+-----------------------------------+-----------------------------------+
-| **Design Type(s)**                | ChIP-Seq                          |
-+-----------------------------------+-----------------------------------+
-| **Measurement Type(s)**           | transcription factor binding site |
-|                                   | identification                    |
-+-----------------------------------+-----------------------------------+
-| **Technology Type(s)**            | ChIP assay                        |
-+-----------------------------------+-----------------------------------+
-| **Sample Characteristic(s)**      | Mycobacterium tuberculosis H37Rv  |
-+-----------------------------------+-----------------------------------+
++--------------------------------+----------------------------------------------------+
+| **Design Type(s)**             | ChIP-Seq                                           |
++--------------------------------+----------------------------------------------------+
+| **Measurement Type(s)**        | transcription factor binding site identification   |
++--------------------------------+----------------------------------------------------+
+| **Technology Type(s)**         | ChIP assay                                         |
++--------------------------------+----------------------------------------------------+
+| **Sample Characteristic(s)**   | Mycobacterium tuberculosis H37Rv                   |
++--------------------------------+----------------------------------------------------+
 
-.. rubric:: Bioproject Record:
-   :name: bioproject-record
-   :class: ribbon-title
+Bioproject Record:
+------------------
 
-Attributes:
+**Attributes:**
 
-+-----------------------------------+-----------------------------------+
-| **collected by**                  | Kyle Minch                        |
-+-----------------------------------+-----------------------------------+
-| **collection date**               | 2014                              |
-+-----------------------------------+-----------------------------------+
-| **geographic location**           | `USA:Washington:Seattle <http://w |
-|                                   | ww.ncbi.nlm.nih.gov/biosample?ter |
-|                                   | m=%22geo_loc_name=USA:Washington: |
-|                                   | Seattle%22%5Battr%5D>`__          |
-+-----------------------------------+-----------------------------------+
-| **host**                          | Homo sapiens                      |
-+-----------------------------------+-----------------------------------+
-| **host disease**                  | tuberculosis                      |
-+-----------------------------------+-----------------------------------+
-| **isolation source**              | human                             |
-+-----------------------------------+-----------------------------------+
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **collected by**          | Kyle Minch                                                                                                                    |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **collection date**       | 2014                                                                                                                          |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **geographic location**   | `USA:Washington:Seattle <http://www.ncbi.nlm.nih.gov/biosample?term=%22geo_loc_name=USA:Washington:Seattle%22%5Battr%5D>`__   |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **host**                  | Homo sapiens                                                                                                                  |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **host disease**          | tuberculosis                                                                                                                  |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **isolation source**      | human                                                                                                                         |
++---------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 
 BioProject:
 `PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/255984>`__
@@ -91,21 +86,3 @@ as UCSC Genome Browser Tracks and also provides download links for
 sorted BAM files. Binding events identified as described in Methods
 section are also presented along with associated transcriptional
 consequences.
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. |ChIP-Seq_TFOE_Analysis_Workflow| image:: /public/patric/images/ChIP-Seq_TFOE_Analysis_Workflow.png
-   :class: wp-image-4999 aligncenter
-   :width: 567px
-   :height: 526px
-   :target: /public/patric/images/ChIP-Seq_TFOE_Analysis_Workflow.png

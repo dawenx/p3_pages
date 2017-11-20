@@ -24,177 +24,71 @@ spreadsheet below
 The .wig files below for each sample contain the transposon insertion
 counts at TA sites. The reference sequence for the coordinates was `NC_000962.3 <https://www.ncbi.nlm.nih.gov/protein/NC_000962.3>`_
 
-+-----------------------+-----------------------+-----------------------+
-| **ID**                | **Title**             | **Wig file**          |
-+-----------------------+-----------------------+-----------------------+
-| 1                     | TnSeq library of      | `delta_Rv3594_TnSeq.w |
-|                       | knockout of Rv3594    | ig <ftp://ftp.patricb |
-|                       |                       | rc.org/BRC_Mirrors/FL |
-|                       |                       | UTE/Experiment_5/delt |
-|                       |                       | a_Rv3594_TnSeq.wig>`_ |
-|                       |                       | _                     |
-+-----------------------+-----------------------+-----------------------+
-| 2                     | TnSeq library of      | `delta_Rv3717_TnSeq_1 |
-|                       | knockout of Rv3717    | .wig <ftp://ftp.patri |
-|                       |                       | cbrc.org/BRC_Mirrors/ |
-|                       |                       | FLUTE/Experiment_5/de |
-|                       |                       | lta_Rv3717_TnSeq_1.wi |
-|                       |                       | g>`__                 |
-+-----------------------+-----------------------+-----------------------+
-| 3                     | TnSeq library of      | `delta_Rv3811_TnSeq.w |
-|                       | knockout of Rv3811    | ig <ftp://ftp.patricb |
-|                       |                       | rc.org/BRC_Mirrors/FL |
-|                       |                       | UTE/Experiment_5/delt |
-|                       |                       | a_Rv3811_TnSeq.wig>`_ |
-|                       |                       | _                     |
-+-----------------------+-----------------------+-----------------------+
-| 4                     | TnSeq library of      | `Rv0307c_day0_rep1.wi |
-|                       | knockout of Rv0307c,  | g <ftp://ftp.patricbr |
-|                       | replicate 1           | c.org/BRC_Mirrors/FLU |
-|                       |                       | TE/Experiment_5/Rv030 |
-|                       |                       | 7c_day0_rep1.wig>`__  |
-+-----------------------+-----------------------+-----------------------+
-| 5                     | TnSeq library of      | `Rv0307c_day0_rep2.wi |
-|                       | knockout of Rv0307c,  | g <ftp://ftp.patricbr |
-|                       | replicate 2           | c.org/BRC_Mirrors/FLU |
-|                       |                       | TE/Experiment_5/Rv030 |
-|                       |                       | 7c_day0_rep2.wig>`__  |
-+-----------------------+-----------------------+-----------------------+
-| 6                     | TnSeq library of      | `Rv3916c_day0_rep1.wi |
-|                       | knockout of Rv3916c,  | g <ftp://ftp.patricbr |
-|                       | replicate 1           | c.org/BRC_Mirrors/FLU |
-|                       |                       | TE/Experiment_5/Rv391 |
-|                       |                       | 6c_day0_rep1.wig>`__  |
-+-----------------------+-----------------------+-----------------------+
-| 7                     | TnSeq library of      | `Rv3916c_day0_rep1.wi |
-|                       | knockout of Rv3916c,  | g <ftp://ftp.patricbr |
-|                       | replicate 2           | c.org/BRC_Mirrors/FLU |
-|                       |                       | TE/Experiment_5/Rv391 |
-|                       |                       | 6c_day0_rep2.wig>`__  |
-+-----------------------+-----------------------+-----------------------+
-| 8                     | TnSeq library of      | `TnSeq_Mtb_Rv0950ko.w |
-|                       | knockout of Rv0950    | ig <ftp://ftp.patricb |
-|                       |                       | rc.org/BRC_Mirrors/FL |
-|                       |                       | UTE/Experiment_5/TnSe |
-|                       |                       | q_Mtb_Rv0950ko.wig>`_ |
-|                       |                       | _                     |
-+-----------------------+-----------------------+-----------------------+
-| 9                     | TnSeq library of      | `TnSeq_Mtb_Rv1096ko.w |
-|                       | knockout of Rv1096    | ig <ftp://ftp.patricb |
-|                       |                       | rc.org/BRC_Mirrors/FL |
-|                       |                       | UTE/Experiment_5/TnSe |
-|                       |                       | q_Mtb_Rv1096ko.wig>`_ |
-|                       |                       | _                     |
-+-----------------------+-----------------------+-----------------------+
-| 10                    | TnSeq library of      | `TnSeq_Mtb_Rv3684ko.w |
-|                       | knockout of Rv3684    | ig <ftp://ftp.patricb |
-|                       |                       | rc.org/BRC_Mirrors/FL |
-|                       |                       | UTE/Experiment_5/TnSe |
-|                       |                       | q_Mtb_Rv3684ko.wig>`_ |
-|                       |                       | _                     |
-+-----------------------+-----------------------+-----------------------+
-| 11                    | TnSeq library of      | `delta_Rv0954_1.wig < |
-|                       | knockout of Rv0954,   | ftp://ftp.patricbrc.o |
-|                       | replicate 1           | rg/BRC_Mirrors/FLUTE/ |
-|                       |                       | Experiment_5/delta_Rv |
-|                       |                       | 0954_1.wig>`__        |
-+-----------------------+-----------------------+-----------------------+
-| 12                    | TnSeq library of      | `delta_Rv0954_2.wig < |
-|                       | knockout of Rv0954,   | ftp://ftp.patricbrc.o |
-|                       | replicate 2           | rg/BRC_Mirrors/FLUTE/ |
-|                       |                       | Experiment_5/delta_Rv |
-|                       |                       | 0954_2.wig>`__        |
-+-----------------------+-----------------------+-----------------------+
-| 13                    | TnSeq library of      | `marP1.wig <ftp://ftp |
-|                       | knockout of Rv3671c,  | .patricbrc.org/BRC_Mi |
-|                       | replicate 1           | rrors/FLUTE/Experimen |
-|                       |                       | t_5/marP1.wig>`__     |
-+-----------------------+-----------------------+-----------------------+
-| 14                    | TnSeq library of      | `marP2.wig <ftp://ftp |
-|                       | knockout of Rv3671c,  | .patricbrc.org/BRC_Mi |
-|                       | replicate 2           | rrors/FLUTE/Experimen |
-|                       |                       | t_5/marP2.wig>`__     |
-+-----------------------+-----------------------+-----------------------+
-| 15                    | TnSeq library of      | `marP3.wig <ftp://ftp |
-|                       | knockout of Rv3671c,  | .patricbrc.org/BRC_Mi |
-|                       | replicate 3           | rrors/FLUTE/Experimen |
-|                       |                       | t_5/marP3.wig>`__     |
-+-----------------------+-----------------------+-----------------------+
-| 16                    | TnSeq library of      | `marP4.wig <ftp://ftp |
-|                       | knockout of Rv3671c,  | .patricbrc.org/BRC_Mi |
-|                       | replicate 4           | rrors/FLUTE/Experimen |
-|                       |                       | t_5/marP4.wig>`__     |
-+-----------------------+-----------------------+-----------------------+
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| **ID**   | **Title**                                           | **Wig file**                                                                                                        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 1        | TnSeq library of knockout of Rv3594                 | `delta\_Rv3594\_TnSeq.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/delta_Rv3594_TnSeq.wig>`__        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 2        | TnSeq library of knockout of Rv3717                 | `delta\_Rv3717\_TnSeq\_1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/delta_Rv3717_TnSeq_1.wig>`__   |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 3        | TnSeq library of knockout of Rv3811                 | `delta\_Rv3811\_TnSeq.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/delta_Rv3811_TnSeq.wig>`__        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 4        | TnSeq library of knockout of Rv0307c, replicate 1   | `Rv0307c\_day0\_rep1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/Rv0307c_day0_rep1.wig>`__          |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 5        | TnSeq library of knockout of Rv0307c, replicate 2   | `Rv0307c\_day0\_rep2.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/Rv0307c_day0_rep2.wig>`__          |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 6        | TnSeq library of knockout of Rv3916c, replicate 1   | `Rv3916c\_day0\_rep1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/Rv3916c_day0_rep1.wig>`__          |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 7        | TnSeq library of knockout of Rv3916c, replicate 2   | `Rv3916c\_day0\_rep1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/Rv3916c_day0_rep2.wig>`__          |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 8        | TnSeq library of knockout of Rv0950                 | `TnSeq\_Mtb\_Rv0950ko.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/TnSeq_Mtb_Rv0950ko.wig>`__        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 9        | TnSeq library of knockout of Rv1096                 | `TnSeq\_Mtb\_Rv1096ko.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/TnSeq_Mtb_Rv1096ko.wig>`__        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 10       | TnSeq library of knockout of Rv3684                 | `TnSeq\_Mtb\_Rv3684ko.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/TnSeq_Mtb_Rv3684ko.wig>`__        |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 11       | TnSeq library of knockout of Rv0954, replicate 1    | `delta\_Rv0954\_1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/delta_Rv0954_1.wig>`__                |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 12       | TnSeq library of knockout of Rv0954, replicate 2    | `delta\_Rv0954\_2.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/delta_Rv0954_2.wig>`__                |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 13       | TnSeq library of knockout of Rv3671c, replicate 1   | `marP1.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/marP1.wig>`__                                    |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 14       | TnSeq library of knockout of Rv3671c, replicate 2   | `marP2.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/marP2.wig>`__                                    |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 15       | TnSeq library of knockout of Rv3671c, replicate 3   | `marP3.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/marP3.wig>`__                                    |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| 16       | TnSeq library of knockout of Rv3671c, replicate 4   | `marP4.wig <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/marP4.wig>`__                                    |
++----------+-----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
 
 **Conditional Essentials:**
 
 The target (KO) genes below link to .dat files that provide lists of
 associated conditional essentials. The significant hits are those with
-Adjusted_pval<0.05.
+Adjusted\_pval<0.05.
 
-+-----------------------------------+-----------------------------------+
-| **Target (KO) Gene**              | **Conditional Essentials**        |
-+-----------------------------------+-----------------------------------+
-| Rv3594                            | `resampling_H37Rv_vs_delta_Rv3594 |
-|                                   | _TTR.dat <ftp://ftp.patricbrc.org |
-|                                   | /BRC_Mirrors/FLUTE/Experiment_5/r |
-|                                   | esampling_H37Rv_vs_delta_Rv3594_T |
-|                                   | TR.dat>`__                        |
-+-----------------------------------+-----------------------------------+
-| Rv3717                            | `resampling_H37Rv_vs_delta_Rv3717 |
-|                                   | _TTR.dat <ftp://ftp.patricbrc.org |
-|                                   | /BRC_Mirrors/FLUTE/Experiment_5/r |
-|                                   | esampling_H37Rv_vs_delta_Rv3717_T |
-|                                   | TR.dat>`__                        |
-+-----------------------------------+-----------------------------------+
-| Rv3811                            | `resampling_H37Rv_vs_delta_Rv3811 |
-|                                   | _TTR.dat <ftp://ftp.patricbrc.org |
-|                                   | /BRC_Mirrors/FLUTE/Experiment_5/r |
-|                                   | esampling_H37Rv_vs_delta_Rv3811_T |
-|                                   | TR.dat>`__                        |
-+-----------------------------------+-----------------------------------+
-| Rv0307c                           | `resampling_H37Rv_Rv0307c_day0_s1 |
-|                                   | 0000_pc0.00.dat <ftp://ftp.patric |
-|                                   | brc.org/BRC_Mirrors/FLUTE/Experim |
-|                                   | ent_5/resampling_H37Rv_Rv0307c_da |
-|                                   | y0_s10000_pc0.00.dat>`__          |
-+-----------------------------------+-----------------------------------+
-| Rv3916c                           | `resampling_H37Rv_Rv3916c_day0_s1 |
-|                                   | 0000_pc0.00.dat <ftp://ftp.patric |
-|                                   | brc.org/BRC_Mirrors/FLUTE/Experim |
-|                                   | ent_5/resampling_H37Rv_Rv3916c_da |
-|                                   | y0_s10000_pc0.00.dat>`__          |
-+-----------------------------------+-----------------------------------+
-| Rv0950                            | `resampling_H37Rv_Rv0950_day0_s10 |
-|                                   | 000_pc0.00.dat <ftp://ftp.patricb |
-|                                   | rc.org/BRC_Mirrors/FLUTE/Experime |
-|                                   | nt_5/resampling_H37Rv_Rv0950_day0 |
-|                                   | _s10000_pc0.00.dat>`__            |
-+-----------------------------------+-----------------------------------+
-| Rv1096                            | `resampling_H37Rv_Rv1096_day0_s10 |
-|                                   | 000_pc0.00.dat <ftp://ftp.patricb |
-|                                   | rc.org/BRC_Mirrors/FLUTE/Experime |
-|                                   | nt_5/resampling_H37Rv_Rv1096_day0 |
-|                                   | _s10000_pc0.00.dat>`__            |
-+-----------------------------------+-----------------------------------+
-| Rv3684                            | `resampling_H37Rv_Rv3684_day0_s10 |
-|                                   | 000_pc0.00.dat <ftp://ftp.patricb |
-|                                   | rc.org/BRC_Mirrors/FLUTE/Experime |
-|                                   | nt_5/resampling_H37Rv_Rv3684_day0 |
-|                                   | _s10000_pc0.00.dat>`__            |
-+-----------------------------------+-----------------------------------+
-| Rv0954                            | `resampling_WT_Rv0954_s10000_pc0. |
-|                                   | 00.dat <ftp://ftp.patricbrc.org/B |
-|                                   | RC_Mirrors/FLUTE/Experiment_5/res |
-|                                   | ampling_WT_Rv0954_s10000_pc0.00.d |
-|                                   | at>`__                            |
-+-----------------------------------+-----------------------------------+
-| Rv3671c                           | `resampling_WT_marP_s10000_pc0.00 |
-|                                   | _1.dat <ftp://ftp.patricbrc.org/B |
-|                                   | RC_Mirrors/FLUTE/Experiment_5/res |
-|                                   | ampling_WT_marP_s10000_pc0.00_1.d |
-|                                   | at>`__                            |
-+-----------------------------------+-----------------------------------+
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Target (KO) Gene**   | **Conditional Essentials**                                                                                                                                          |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3594                 | `resampling\_H37Rv\_vs\_delta\_Rv3594\_TTR.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_vs_delta_Rv3594_TTR.dat>`__                 |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3717                 | `resampling\_H37Rv\_vs\_delta\_Rv3717\_TTR.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_vs_delta_Rv3717_TTR.dat>`__                 |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3811                 | `resampling\_H37Rv\_vs\_delta\_Rv3811\_TTR.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_vs_delta_Rv3811_TTR.dat>`__                 |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv0307c                | `resampling\_H37Rv\_Rv0307c\_day0\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_Rv0307c_day0_s10000_pc0.00.dat>`__   |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3916c                | `resampling\_H37Rv\_Rv3916c\_day0\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_Rv3916c_day0_s10000_pc0.00.dat>`__   |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv0950                 | `resampling\_H37Rv\_Rv0950\_day0\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_Rv0950_day0_s10000_pc0.00.dat>`__     |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv1096                 | `resampling\_H37Rv\_Rv1096\_day0\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_Rv1096_day0_s10000_pc0.00.dat>`__     |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3684                 | `resampling\_H37Rv\_Rv3684\_day0\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_H37Rv_Rv3684_day0_s10000_pc0.00.dat>`__     |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv0954                 | `resampling\_WT\_Rv0954\_s10000\_pc0.00.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_WT_Rv0954_s10000_pc0.00.dat>`__                      |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rv3671c                | `resampling\_WT\_marP\_s10000\_pc0.00\_1.dat <ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/Experiment_5/resampling_WT_marP_s10000_pc0.00_1.dat>`__                     |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 **Methods references:**
 

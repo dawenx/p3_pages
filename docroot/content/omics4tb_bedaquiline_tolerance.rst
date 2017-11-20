@@ -19,9 +19,8 @@ combinations with antagonistic interactions, potentially accelerating
 the discovery of new effective combination drug regimens for
 tuberculosis.
 
-.. rubric:: GEO Record
-   :name: geo-record
-   :class: ribbon-title
+GEO Record
+----------
 
 +-----------------------------------+-----------------------------------+
 | GEO Accession                     | `GSE72459 <https://www.ncbi.nlm.n |
