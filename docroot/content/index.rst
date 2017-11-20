@@ -14,6 +14,7 @@ PATRIC Content Pages
    omics4tb_chip_seq_experiments.rst
    omics4tb_tfoe_expression_experiments.rst
    omics4tb_bedaquiline_tolerance.rst
+   omics4tb_macrophage_mtb_infection.rst
    tb_systems_biology.rst
    center_for_systems_biology_enteropathogens_sysbep.md
    systems_biology_of_clostridium_difficile_infection.md
