@@ -21,11 +21,12 @@ PATRIC Content Pages
    systems_biology_of_microbiome_mediated_resilence.md
 
    flute.md
-   ccfa.md
-   gunk.md
-   gunk-experiment-1.md
-   gunk-experiment-2.md
    flute-experiment-1.rst
    flute-experiment-2.rst
    flute-experiment-3.rst
    flute-experiment-4.rst
+   flute-experiment-5.rst
+   ccfa.md
+   gunk.md
+   gunk-experiment-1.md
+   gunk-experiment-2.md
