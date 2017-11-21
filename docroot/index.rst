@@ -12,5 +12,4 @@ PATRIC Static Content
    webpage/index
    help/index
    data/index
-
-
+   content/index
